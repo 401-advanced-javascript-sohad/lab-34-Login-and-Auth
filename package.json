@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/401-advanced-javascript-sohad/lab-34-Login-and-Auth/issues"
   },
-  "homepage": "https://github.com/401-advanced-javascript-sohad/lab-34-Login-and-Auth#readme",
+  "homepage": "https://github.com/401-advanced-javascript-sohad/lab-34-Login-and-Auth",
   "dependencies": {
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
@@ -39,5 +39,17 @@
     "react-scripts": "^3.4.0",
     "react-test-renderer": "^16.13.0",
     "superagent": "^5.2.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

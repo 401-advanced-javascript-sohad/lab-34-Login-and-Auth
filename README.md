@@ -4,7 +4,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/401-advanced-javascript-sohad/lab-34-Login-and-Auth/pull/1)
 - [ci/cd]() (GitHub Actions)
 
 ### Setup
